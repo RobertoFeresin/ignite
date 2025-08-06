@@ -5,6 +5,22 @@ import { Sidebar } from "./components/Sidebar"
 import styles from "./App.module.css"
 import "./global.css"
 
+// author: {avatar_url: "", name:"", role;""}
+// publishedAt: Date
+// content: String
+
+// const posts = [
+//   {
+//     id: 1,
+//     author: {
+//       avatar_url: "https://github.com/RobertoFeresin.png",
+//       name: "Roberto Feresin",
+//       role: "Web Developer FullStack"
+//     },
+//     content:
+//   },
+// ];
+
 export function App() {
   return (
     <>
