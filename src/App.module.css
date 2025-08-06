@@ -10,8 +10,12 @@
 }
 
 @media(max-width:768px) {
+
     html {
-        font-size: 14px;
+
+        /* regra de três 16px -> 100% */
+        /* 14px -> x */
+        font-size: 87.5%;
     }
 
     .wrapper {
